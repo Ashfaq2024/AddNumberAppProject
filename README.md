@@ -1,2 +1,2 @@
-# AddNumberAppProject
+Create the “add numbers” program in C# for Windows using Visual Studio for Windows. Do the best job you can given the information we have available. Be sure to extend the program we developed in class. (Don’t just submit what we did in class). Think about the user and the problem – what does “add numbers” mean, for example? Create a good user interface with meaningful prompts and labels. Comment your source code.# AddNumberAppProject
 Add numbers
